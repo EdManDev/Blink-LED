@@ -1,7 +1,5 @@
 #include <Arduino.h>
 
-#include <Arduino.h>
-
 #define LED 2
 
 void setup()
